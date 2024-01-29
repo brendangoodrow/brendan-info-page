@@ -20,6 +20,22 @@
     background: #ddd;
     color: black;
   }
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-container {
+    width: 50%
+}
+.image-content {
+    width: 50%
+    test-align: right;
+}
+.image-content img {
+    width: 100%
+    height: auto;
+}
 header {
   background-color: #2a52be;
   padding: 30px;
