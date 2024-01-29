@@ -26,10 +26,10 @@
     align-items: center;
 }
 .text-container {
-    width: 50%
+    width: 50%;
 }
 .image-container {
-    width: 50%
+    width: 50%;
     text-align: right;
 }
 .image-container img {
