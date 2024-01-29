@@ -28,11 +28,11 @@
 .text-container {
     width: 50%
 }
-.image-content {
+.image-container {
     width: 50%
     text-align: right;
 }
-.image-content img {
+.image-container img {
     width: 200px;
     height: 400px;
 }
