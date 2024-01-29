@@ -30,7 +30,7 @@
 }
 .image-content {
     width: 50%
-    test-align: right;
+    text-align: right;
 }
 .image-content img {
     width: 200px;
