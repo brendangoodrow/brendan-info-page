@@ -34,8 +34,8 @@
     margin: 0 auto;
 }
 .image-container img {
-    width: 200px;
-    height: 400px;
+    width: auto;
+    height: auto;
 }
 header {
   background-color: #2a52be;
